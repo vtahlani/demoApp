@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9cdffda1-d3a2-4f08-b381-73a45ddd8e18/resourceGroups/hackathon-app-rg/providers/Microsoft.Web/sites/hackathon-web-app",
+    "appService.deploySubpath": "dist\\hackathon-angular-app"
+}
